@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="35%" />
-  <img src="https://streak-stats.demolab.com/?user=chlrudtlr&theme=transparent" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=chlrudtlr&theme=transparent" width="40%" />
 </p>
 <br>
 <h3 align="center">🌿 My Tech Stack</h3>
