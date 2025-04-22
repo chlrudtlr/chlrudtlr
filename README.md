@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
-
+<br>
 <h3 align="center">🛠 My Development Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white" />
 </p>
-
+<br>
 <h3 align="center">📬 About Me</h3>
 <p align="center">
   <a href="misosunboy2@naver.com">
