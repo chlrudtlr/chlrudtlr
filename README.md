@@ -59,15 +59,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">📬 About Me</h3>
 <p align="center">
-  <a href="mailto:chlrudtlr@example.com">
+  <a href="misosunboy2@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/kyungsik.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://open.kakao.com/o/g1kyungsik">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>
-  </a>
 </p>
