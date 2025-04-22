@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="31%" />
   <img src="https://github-readme-stats.vercel.app/api?username=chlrudtlr&show_icons=true&theme=transparent" width="40%" />
 </p>
 
