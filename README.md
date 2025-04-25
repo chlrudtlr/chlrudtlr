@@ -16,16 +16,17 @@ Here are some ideas to get you started:
   <img src="assets/main_profile.gif" />
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
+<h3>📊 GitHub Stats</h3>
+<hr style="border: none; height: 1px; background-color: red;">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="31%" />
   <img src="https://github-readme-stats.vercel.app/api?username=chlrudtlr&show_icons=true&theme=transparent" width="40%" />
 </p>
 
 <br>
-<h3 align="center">🌿 My Tech Stack</h3>
-<p align="center">
+<h3>🌿 My Tech Stack</h3>
+<hr style="border: none; height: 1px; background-color: red;">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
@@ -41,8 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 <br>
-<h3 align="center">🛠 My Development Tools</h3>
-<p align="center">
+
+<h3>🛠 My Development Tools</h3>
+<hr style="border: none; height: 1px; background-color: red;">
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -58,8 +61,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white" />
 </p>
 <br>
-<h3 align="center">📬 About Me</h3>
-<p align="center">
+
+<h3>📬 About Me</h3>
+<hr style="border: none; height: 1px; background-color: red;">
+<p>
   <a href="misosunboy2@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
