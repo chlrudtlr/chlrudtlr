@@ -68,3 +68,7 @@ Here are some ideas to get you started:
   <a href="misosunboy2@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
+<p>
+    <a href="https://velog.io/@misosunboy2/posts">
+  <img src="https://img.shields.io/badge/Velog-48D1CC?style=flat-square&logo=Velog&logoColor=white">
+</p>
