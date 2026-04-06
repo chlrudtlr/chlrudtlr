@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3>📊 GitHub Stats</h3>
 <hr style="border: none; height: 1px; background-color: red;">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=transparent" width="31%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chlrudtlr&show_icons=true&theme=transparent" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chlrudtlr&show_icons=true&theme=tokyonight" width="450" />
 </div>
 
 <br>
