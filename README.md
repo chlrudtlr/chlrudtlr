@@ -17,10 +17,36 @@ Here are some ideas to get you started:
 </div>
 
 <h3>📊 GitHub Stats</h3>
-<hr style="border: none; height: 1px; background-color: red;">
+<hr>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chlrudtlr&layout=compact&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chlrudtlr&show_icons=true&theme=tokyonight" width="450" />
+  <a href="https://github.com/chlrudtlr">
+    <img src="https://img.shields.io/github/followers/chlrudtlr?label=Followers&style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/chlrudtlr?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/chlrudtlr?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View-yellow?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=chlrudtlr">
+    <img src="https://komarev.com/ghpvc/?username=chlrudtlr&style=flat-square" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/chlrudtlr">
+    <img src="https://img.shields.io/badge/GitHub-chlrudtlr-181717?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://velog.io/@misosunboy2/posts">
+    <img src="https://img.shields.io/badge/Velog-misosunboy2-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </div>
 
 <br>
